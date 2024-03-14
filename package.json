@@ -1,5 +1,6 @@
 {
   "name": "moz-todo-react",
+  "homepage": "http://localhost:8888/testing/wp-content/plugins/react-plugin/todo/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
